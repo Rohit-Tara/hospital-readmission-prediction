@@ -83,5 +83,5 @@ seaborn
  
 ## Author
  
-Rohit Tara — MSc Bioinformatics, University of Leicester
+Rohit Tara
 github.com/Rohit-Tara
